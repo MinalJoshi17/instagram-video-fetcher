@@ -1,0 +1,7 @@
+aiohttp
+asyncio
+tqdm
+watchdog
+requests
+instaloader
+tiktokapi
