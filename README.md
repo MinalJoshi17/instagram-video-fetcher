@@ -1,4 +1,4 @@
-# instagram-video-fetcher
+# Instagram-video-fetcher
 A script to fetch and upload videos from Instagram
 # 📸 Instagram Video Fetcher & Uploader 🚀
 
